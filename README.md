@@ -33,7 +33,7 @@ Overhead camera locomotion showing that majority of locommotion activities is hi
 ![Fig_v_2](https://github.com/user-attachments/assets/88c53ca5-0bce-41bc-89be-0af6975f1045)
 
 ####################################################################################
-# Three example brain cells showing that the magnitude of fluorscent activities are related to locomotion.  
+# Three example brain cells with activities across the whole session showing that the magnitude of fluorscent activities are related to locomotion.  
 
 
 ![Fig_v_3](https://github.com/user-attachments/assets/993900b3-8024-4fee-8849-c8c349932d06)
