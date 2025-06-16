@@ -26,7 +26,7 @@ Example fluorescent activities from brain cells
 Fluroescent activities throughout the session 
 
 (Right) 
-Overhead camera locomotion showing that majority of locommotion activities is highest when the mice is 
+Overhead camera locomotion showing that majority of locommotion activities is highest when the mice was: 
   1. moving to respond to a side cue (left/ right)
   2. moving from side cue back to middle port to retrieve a reward
 
