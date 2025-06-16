@@ -10,10 +10,10 @@ Use ka_Ca_Imaging environmnet (script: Ka_Step_5_Analysis_Correlations_WholeSess
 
 (Left)
 Infrared port activities from [previously already aligned GIPO] is matching perfectly with the newly aligned [overhead camera locomotion] data for the whole session.
-The bottom shows that zooming at different time point througout the session.  
+The bottom shows that we have consistent alignment even when zooming at different time point througout the session.
 
 (Right)
-A cross-correlation analysis using infarared activites from GIPO and overhead camera.  The correlation peaks at bin 0, further demonstrating proper data alignment. 
+A whole session cross-correlation analysis using infarared activites from GIPO and overhead camera.  The correlation peaks at bin 0, further demonstrating proper data alignment. 
 ![Fig_v_1](https://github.com/user-attachments/assets/e33eb103-55fc-4425-bce1-7b9f696a422c)
 
 ####################################################################################
