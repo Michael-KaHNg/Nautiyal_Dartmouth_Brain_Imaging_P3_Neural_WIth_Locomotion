@@ -42,7 +42,7 @@ Overhead camera locomotion showing that majority of locommotion activities is hi
 # Neural activites preceeds locomotion by about 500 ms 
 
 We can either look at the overall magnitude of fluroscent signal (Left) or  only when a fluroscent event occurs (Right).  
-All cells 
+All of our cells 
 
 
 ![Fig_v_4](https://github.com/user-attachments/assets/d8520a1f-a80e-4924-9d14-37ccaec86b40)
