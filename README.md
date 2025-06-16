@@ -17,9 +17,23 @@ A cross-correlation analysis using infarared activites from GIPO and overhead ca
 ![Fig_v_1](https://github.com/user-attachments/assets/e33eb103-55fc-4425-bce1-7b9f696a422c)
 
 ####################################################################################
+#  First look at brain cell activities and overhead camera locomotion activities 
+
+(Left)
+Example fluorescent activities from brain cells 
+
+(Middle)
+Fluroescent activities throughout the session 
+
+(Right) 
+Overhead camera locomotion showing that majority of locommotion activities is highest when the mice is 
+  1. moving to respond to a side cue (left/ right)
+  2. moving from side cue back to middle port to retrieve a reward
+
 ![Fig_v_2](https://github.com/user-attachments/assets/88c53ca5-0bce-41bc-89be-0af6975f1045)
 
 ####################################################################################
+
 ![Fig_v_3](https://github.com/user-attachments/assets/993900b3-8024-4fee-8849-c8c349932d06)
 
 ####################################################################################
