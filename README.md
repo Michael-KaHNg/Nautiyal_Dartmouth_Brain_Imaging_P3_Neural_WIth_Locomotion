@@ -39,10 +39,10 @@ Overhead camera locomotion showing that majority of locommotion activities is hi
 ![Fig_v_3](https://github.com/user-attachments/assets/993900b3-8024-4fee-8849-c8c349932d06)
 
 ####################################################################################
-# Neural activites preceeds locomotion by about 500 ms 
+# Neural activites preceeds locomotion by about 400 ms 
 
 We can either look at the overall magnitude of fluroscent signal (Left) or  only when a fluroscent event occurs (Right).  
-All 29 of our cells were positively correlated with locomtoin (Top).  Cross correaltion analysis showed that that averaged cell activities precedes locomotion by about 500 ms.
+All 29 of our cells were positively correlated with locomtoin (Top).  Cross-correaltion analysis showed that that averaged cell activities precedes locomotion by about 400 ms (4 bins @ 100ms per bin).
 
 
 ![Fig_v_4](https://github.com/user-attachments/assets/d8520a1f-a80e-4924-9d14-37ccaec86b40)
