@@ -28,7 +28,7 @@ Fluroescent activities throughout the session
 (Right) 
 Overhead camera locomotion showing that majority of locommotion activities is highest when the mouse was: 
   1. moving to respond to a side cue (left/ right)
-  2. moving from side cue back to middle port to retrieve a reward
+  2. moving from side cue back to middle port to retrieve a reward (black square shows the moment when the mouse retrieved reward that was detected by infrared port)
 
 ![Fig_v_2](https://github.com/user-attachments/assets/88c53ca5-0bce-41bc-89be-0af6975f1045)
 
