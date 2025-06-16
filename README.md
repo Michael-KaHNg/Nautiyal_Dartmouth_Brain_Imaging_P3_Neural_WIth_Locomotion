@@ -9,7 +9,7 @@ Use ka_Ca_Imaging environmnet (script: Ka_Step_5_Analysis_Correlations_WholeSess
 # Confirming alignment using infared port activities throught the session.  
 
 (Left)
-Infrared port activities from [previously already aligned GIPO] is matching perfectly with the newly aligned [overhead camera locomotion] data for the whole session.
+Infrared port activities from [previously aligned GIPO] is matching perfectly with the newly aligned [overhead camera locomotion] data for the whole session.
 The bottom shows that we have consistent alignment even when zooming at different time point througout the session.
 
 (Right)
